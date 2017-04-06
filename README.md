@@ -12,14 +12,6 @@ Click the big download button from the [Chinook Database](http://chinookdatabase
 That file **is** the database. It contains all of the tables and data. You can now open up that file in the SQLite Browser application to see it.
 
 ## Instructions
-
-1. In your cohort's Github account, create a github repository for your answers. If your instructor is using Github Classroom, the repository will be created for you. If not, name your repository `chinook-{your Github username]`.
-1. If you are using the Firefox Add On, and you have trouble opening it once it has been installed, try opening Firefox, selecting "customize" at the bottom of the hamberger menu at the top right of the page. You can then drag SQLite Manager onto the toolbar where it will be easily accessible.
-1. Go ahead and click around a little bit to familarize yourself with the database
-1. **Recommended:** Draw an ERD of the Chinook database. Make sure to label primary keys, foreign keys, and indicate the type of relationship (one to one, one to many, many to many, etc) for each relationship. Use draw.io.
-1. When you're ready to start the exercise, click the tab labeled "Execute SQL", type in your query and run it.
-1. If your query is correct - meaning it returns the data requested - copy and the SQL statement and paste it into the corresponding file for the exercise (_see below_). If your query doesn't return the expected results, try try again.
-
 For each of the following exercises, provide the appropriate query. Yes, even the ones that are expressed in the form of questions. Everything from class and the [Sqlite Documentation](http://www.sqlite.org/) is fair game.
 
 1. `non_usa_customers.sql`: Provide a query showing Customers (just their full names, customer ID and country) who are not in the US.
